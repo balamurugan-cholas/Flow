@@ -25,7 +25,7 @@ export function LaunchCTA() {
 
           <div className="pt-8 text-center">
             <motion.a
-              href="https://github.com/your-username/flow-utility/releases/latest/download/flow-installer.exe"
+              href="https://github.com/balamurugan-cholas/Flow/releases/download/flow/Flow.AI.zip"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="relative px-10 py-5 bg-white text-slate-950 font-bold rounded-full 
