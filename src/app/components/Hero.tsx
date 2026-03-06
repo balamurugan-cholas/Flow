@@ -197,7 +197,7 @@ export function Hero() {
           <span className="absolute bottom-0 left-0 w-3 h-3 pointer-events-none" style={{ borderBottom: "1.5px solid #00FFFF", borderLeft: "1.5px solid #00FFFF", transition: "all 0.3s" }} />
           <span className="absolute bottom-0 right-0 w-3 h-3 pointer-events-none" style={{ borderBottom: "1.5px solid #00FFFF", borderRight: "1.5px solid #00FFFF", transition: "all 0.3s" }} />
           <a
-            href="https://drive.google.com/file/d/1vtZZCYztKi2gM2fT-VtQ-MizkH8jOZnx/view?usp=drive_link"
+            href="https://github.com/balamurugan-cholas/Flow/releases/download/flow/Flow.AI.zip"
             download
             className="relative inline-flex items-center gap-3 px-8 py-3.5 transition-all duration-300"
             style={{
