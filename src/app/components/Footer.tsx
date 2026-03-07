@@ -173,7 +173,7 @@ export function Footer() {
                   <div className="w-6 h-6 rounded overflow-hidden flex items-center justify-center from-violet-500 to-cyan-500">
                     {/* Updated to use an image instead of an SVG */}
                     <img
-                      src="/logo.png"
+                      src="/Flow/logo.png"
                       alt="Flow Icon"
                       className="w-full h-full object-cover"
                     />
