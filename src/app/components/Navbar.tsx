@@ -54,7 +54,7 @@ export function Navbar() {
               onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
             >
               <img
-                src="/logo.png"
+                src="/Flow/logo.png"
                 alt="Flow"
                 className={`transition-all duration-700 ease-in-out object-contain ${scrolled ? "h-6" : "h-8"}`}
               />
